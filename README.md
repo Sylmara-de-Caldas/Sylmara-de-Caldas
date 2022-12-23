@@ -1,5 +1,6 @@
 - 👋 Oie! Sou a Sylmara Caldas, tudo bem?
-- 🌱 Estou aprendendo C# no momento!
+- 🎓 Graduanda de ADS (1º semestre)
+- 🎓 Estou em um treinamento de C# no momento!
 - 📫 Me add lá no Linkedin :) https://www.linkedin.com/in/sylmara-caldas/
 
 <!---
