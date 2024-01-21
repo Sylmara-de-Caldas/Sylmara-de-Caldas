@@ -1,6 +1,6 @@
 - 👋 Oie! Sou a Sylmara Caldas, tudo bem?
-- 🎓 Graduanda de ADS (1º semestre)
-- 🎓 Estou em um treinamento de C# no momento!
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+- 🎓 Estou estagiando com .Net C# no momento!
 - 📫 Me add lá no Linkedin :) https://www.linkedin.com/in/sylmara-caldas/
 
 <!---
